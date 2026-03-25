@@ -1,1 +1,2 @@
-Devops Hackthon by Adhoc Tech Network
+Devops Hackthon by Adhoc Tech Network.
+for BSC-B and BSC-C
